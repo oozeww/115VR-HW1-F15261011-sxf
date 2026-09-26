@@ -7,8 +7,10 @@ sxf-F15261011
 
 Github鏈接（branch:trask2）：
 https://github.com/oozeww/115VR-HW1-F15261011-sxf
+
 Youtube鏈接：
 https://www.youtube.com/watch?v=FcaOhpKqjT0&list=PLZA8CS7QLwVA&index=2
+
 製作流程：
 1.	我添加了背景、一個控制的cube、一個長方形作爲地面™，分別把他們的order in layer設置成0、1、1；給cube增加了sprite renderer可以改變樣式、增加rigidbody 2d並勾選gravity，給cube和地面同時增加了box collider 2d，運行游戲后cube可以隨重力落在地面上
 2.	Assets中書寫C#脚本並導入到cube的script中，使用vector和陣列，WASD和空格鍵控制cube，實現了左右移動和跳躍
