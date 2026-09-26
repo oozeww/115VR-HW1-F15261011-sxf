@@ -5,7 +5,7 @@ sxf-F15261011
 專案截圖：
  <img width="865" height="521" alt="image" src="https://github.com/user-attachments/assets/9592fb8e-0781-4b55-b56f-47c9a0072863" />
 
-Github鏈接（branch:trask2）：
+Github鏈接（branch:task2）：
 https://github.com/oozeww/115VR-HW1-F15261011-sxf
 
 Youtube鏈接：
